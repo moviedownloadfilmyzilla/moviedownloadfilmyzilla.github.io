@@ -38,6 +38,13 @@ body {
     margin: 5%;
   }
 
+  /* image */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+
 
   footer{
     text-align: center;
